@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Rexy Gamaliel, and am currently studying Informatics Engineering at Bandung Institute of Technology.
-Please welcome at this humble site of mine 
+Please welcome to this humble site of mine 
 
 - 🌱 I’m currently learning in sophomore year of computer science
 - 👯 I’m looking to collaborate with anyone interested to learn and explore together
