@@ -7,3 +7,5 @@ Please welcome to this humble site of mine
 - 👯 I’m looking to collaborate with anyone interested to learn and explore together
 - 💻 I’m interested in learning Data Science, Software Engineering, and Full-Stack Development
 - 🏀 I like to play badminton, play music (guitar mostly), draw, and watch YouTube
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rexy-gamaliel)](https://github.com/ryo-ma/github-profile-trophy)
