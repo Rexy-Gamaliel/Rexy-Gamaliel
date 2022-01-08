@@ -9,5 +9,6 @@ Please welcome to this humble site of mine
 - 🏀 I like to play badminton, play music (guitar mostly), draw, and watch YouTube
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexy-gamaliel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexy-gamaliel&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
